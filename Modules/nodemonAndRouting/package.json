@@ -1,0 +1,19 @@
+{
+  "name": "nodemonandrouting",
+  "version": "1.0.0",
+  "main": "nodemon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "nodemon",
+    "routing"
+  ],
+  "author": "Ratul Hasan",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
